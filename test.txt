@@ -10,3 +10,6 @@ git add .
 git stgit is used for version control
 git is important for your f uture work experience!
 to view are commit git log
+--- Jinwen
+---Cody
+---Dean
