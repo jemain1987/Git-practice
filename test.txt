@@ -1,0 +1,12 @@
+new--item test.txt # creates new item on windows
+touch test.text
+ctrl-s # saves!!!!!!!!!!!!!!!!
+ctrl-z # undo 
+ctrl-c #copy
+ctrl-v # paste
+ctrl-a # hightlight everyone
+-- add -- commit -- pull --push --
+git add .
+git stgit is used for version control
+git is important for your f uture work experience!
+to view are commit git log
